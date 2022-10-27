@@ -1,0 +1,1 @@
+Olá, meu nome é Angelo e uso este GitHub para compartilhar meus estudos para desenvolvimento de sistemas, se você é desenvolvedor, pode achar os projetos bem simples, porém, estou sempre aberto a dicas e oportunidades de aprendizado/sugestões de projetos
